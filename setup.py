@@ -13,7 +13,7 @@ setup(
     author=u"Daniel Neuhäuser",
     author_email=u"dasdasich@gmail.com",
     description=u"commandline option parser",
-    long_description=open("README").read(),
+    long_description=open("README.rst").read(),
     keywords="commandline option parser",
     platforms="any",
     zip_safe=False,
